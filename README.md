@@ -2,7 +2,7 @@
 
 Este projeto faz parte do MVP do Sprint **Desenvolvimento Full Stack Básico**
 
-O objetivo aqui é elaborar uma API RESTful, implementada em Python e Flask, utilizando
+O objetivo é elaborar uma API RESTful, implementada em Python e Flask, utilizando
 a documentação Swagger.
 
 ---
