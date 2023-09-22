@@ -11,8 +11,6 @@ a documentação Swagger.
 
 Este projeto está organizado de acordo com as seguintes estruturas de pastas e arquivos:
 
-# Organização do Projeto
-
 ## Pastas
 
 - **models:**
