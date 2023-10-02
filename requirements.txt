@@ -1,5 +1,5 @@
-flask
-flask-smorest
+flask==2.3.3
+flask-smorest==2.3.3
 python-dotenv
 sqlalchemy
 flask-sqlalchemy
